@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" com.springsource.tcserver.asf="false" com.springsource.tcserver.name="LocalCagri" configuration-id="/Servers/LocalCagri - Pivotal tc Server v3.0 - v3.2 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="LocalCagri - Pivotal tc Server v3.0 - v3.2 at localhost" instanceDir="/Applications/sts-bundle/pivotal-tc-server-developer-3.2.6.RELEASE" name="LocalCagri - Pivotal tc Server v3.0 - v3.2 at localhost" runtime-id="Pivotal tc Server v3.0 - v3.2" saveSeparateContextFiles="true" server-type="com.pivotal.server.tc.80" server-type-id="com.pivotal.server.tc.80" start-timeout="120" stop-timeout="15" testEnvironment="false" timestamp="0"/>
+</servers>
