@@ -45,7 +45,7 @@ This project aims to manage the staff and business processes of an enterprise us
 <img src="https://github.com/kburaky/BusinessProcessManagement/blob/master/Screenshots/13.png" width="200" style="max-width:100%;"></a>
 
 </p>
-# Panel Login
+<h1>Panel Login</h1>
 <br/>
 <b>Username:</b> kburaky@steemit.com<br/>
 <b>Password:</b> 12345
