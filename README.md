@@ -46,5 +46,5 @@ This project aims to manage the staff and business processes of an enterprise us
 
 </p>
 # Panel Login<br/>
-<b>Username:</b> kburaky@steemit.com
+<b>Username:</b> kburaky@steemit.com<br/>
 <b>Password:</b> 12345
